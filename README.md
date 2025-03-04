@@ -101,3 +101,5 @@ If you found this helpful, like, subscribe, and stay tuned for more coding tips.
 
 Cheers! ;)
 
+src: [_Gemini Code Assist Tutorial_](https://proflead.dev/posts/gemini-code-assist-in-vs-code/)
+
